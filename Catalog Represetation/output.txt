@@ -1,0 +1,16 @@
+Catalog Read: movie
+Exception: missing field
+"Cold Mountain" "Anthony Minghella" "2003" "Adventure, Drama, History" 
+Exception: duplicate entry
+"Twelve Monkeys" "" "" "Sci-Fi, Thriller" " Bruce Willis, Madeleine Stowe, Brad Pitt" 
+Exception: duplicate entry
+"Twelve Monkeys" "" "" "Mystery, Sci-Fi, Thriller" " Bruce Willis, Madeleine Stowe, Brad Pitt" 
+3 unique entries
+search "Monkeys" in "title" 
+"Twelve Monkeys" "Terry Gilliam" "1995" "Mystery, Sci-Fi, Thriller" " Bruce Willis, Madeleine Stowe, Brad Pitt" 
+search "Spice" in "type" 
+Exception: command is wrong
+sort "year" 
+"Twelve Monkeys" "Terry Gilliam" "1995" "Mystery, Sci-Fi, Thriller" " Bruce Willis, Madeleine Stowe, Brad Pitt" 
+"The Lord of the Rings: The Fellowship of the Ring" "Peter Jackson" "2001" "Adventure, Drama, Fantasy" "Elijah Wood, Ian McKellen, Orlando Bloom" 
+"Perfume: The Story of a Murderer" " Tom Tykwer" "2006" "Crime, Drama, Fantasy" "Ben Whishaw, Dustin Hoffman, Alan Rickman" 
