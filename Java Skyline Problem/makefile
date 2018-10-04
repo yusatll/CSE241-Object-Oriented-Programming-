@@ -1,0 +1,2 @@
+compile:
+	javac Main.java
